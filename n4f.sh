@@ -10,7 +10,7 @@ white='\e[1;37m'
 red='\e[1;31m'
 yellow='\e[1;33m'
 sleep 1
-figlet "Tools"
+figlet "Tools team NOT{404}FOUND"
 echo ""
 
 echo "\033[31;1m#######################################"
@@ -117,6 +117,10 @@ fi
 if [ $p = 0 ]
 
 then
+
+clear
+
+sleep 1
 
 exit
 
